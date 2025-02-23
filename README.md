@@ -1,4 +1,3 @@
-# Recipe-Management-Project
 # 🍽️ Recipe Management Project
 
 ## 📌 Overview
