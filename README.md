@@ -33,12 +33,5 @@ git clone https://github.com/Apoorva-Bhat23/Recipe-Management-Project.git
 - API for fetching public recipes
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## 📬 Contact
-For any queries or suggestions, connect with me at [Apoorva Y R](https://github.com/Apoorva-Bhat23).
-
+This project is licensed under the MIT License.
 ---
