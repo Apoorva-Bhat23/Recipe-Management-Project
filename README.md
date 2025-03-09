@@ -11,13 +11,9 @@ The **Recipe Management Project** is a web-based application that helps users st
 - 📤 Share recipes with others
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML, CSS, JavaScript (Bootstrap/React/Angular)
-- **Backend:** Node.js / Django / Flask
-- **Database:** MongoDB / MySQL / Firebase
-
-## 📂 Project Structure
-Recipe-Management-Project │── 📂 frontend/ │── 📂 backend/ │── 📂 database
-
+- **Frontend:** C#
+- **Backend:** SQL
+- **Database:** MySQL
 
 ## 🔧 Setup & Installation
 1. Clone the repository:
