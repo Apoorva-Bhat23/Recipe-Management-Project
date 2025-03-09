@@ -15,9 +15,6 @@ The **Recipe Management Project** is a web-based application that helps users st
 - **Backend:** SQL
 - **Database:** MySQL
 
-## Entity Relationship Diagram
-![image](https://github.com/user-attachments/assets/d638940d-cfba-4c1e-8632-f5846eb053cf)
-
 ## 🔧 Setup & Installation
 1. Clone the repository:
 git clone https://github.com/Apoorva-Bhat23/Recipe-Management-Project.git
